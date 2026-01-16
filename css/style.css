@@ -1,0 +1,16 @@
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: #1e1e1e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+canvas {
+  background: #111;
+  border: 2px solid #44ff44;
+}
+    
